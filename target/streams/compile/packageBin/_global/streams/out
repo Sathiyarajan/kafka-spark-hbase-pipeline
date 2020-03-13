@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/hbasetest_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Consumer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Consumer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Consumer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Consumer$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$$anonfun$main$1$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Consumer$$anonfun$main$1$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$$anonfun$main$1$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Consumer$$anonfun$main$1$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Consumer$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Consumer$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Consumer$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Producer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Producer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Producer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Producer$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/eresht/spark_workspace/sathyadev/HBaseTest/target/scala-2.11/classes/Producer$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

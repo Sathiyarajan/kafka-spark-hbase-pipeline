@@ -1,0 +1,70 @@
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:1:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.streaming.kafka010.KafkaUtils[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:2:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.kafka.common.serialization.StringDeserializer[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.{SparkConf, SparkContext}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.streaming.{Seconds, StreamingContext}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:5:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.streaming.kafka010.LocationStrategies.PreferConsistent[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:6:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:7:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.hadoop.hbase.{HBaseConfiguration, HColumnDescriptor, HTableDescriptor}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:8:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:9:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.hadoop.hbase.client.ConnectionFactory[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:10:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.hadoop.hbase.client.Connection[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:11:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.hadoop.hbase.client.Put[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:12:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.hadoop.hbase.util.Bytes[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:20:37: not found: type StringDeserializer[0m
+[0m[[0m[31merror[0m] [0m[0m      "key.deserializer" -> classOf[StringDeserializer],[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:21:39: not found: type StringDeserializer[0m
+[0m[[0m[31merror[0m] [0m[0m      "value.deserializer" -> classOf[StringDeserializer],[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:30:25: not found: type SparkConf[0m
+[0m[[0m[31merror[0m] [0m[0m    val sparkConf = new SparkConf().setMaster("yarn").setAppName("KafkaTest")[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:32:32: not found: type StreamingContext[0m
+[0m[[0m[31merror[0m] [0m[0m    val streamingContext = new StreamingContext(sparkConf, Seconds(1))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:32:60: not found: value Seconds[0m
+[0m[[0m[31merror[0m] [0m[0m    val streamingContext = new StreamingContext(sparkConf, Seconds(1))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:34:23: not found: value KafkaUtils[0m
+[0m[[0m[31merror[0m] [0m[0m    val kafkaStream = KafkaUtils.createDirectStream[String, String]([0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:36:7: not found: value PreferConsistent[0m
+[0m[[0m[31merror[0m] [0m[0m      PreferConsistent,[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:37:7: not found: value Subscribe[0m
+[0m[[0m[31merror[0m] [0m[0m      Subscribe[String, String](topics, kafkaParams)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Consumer.scala:40:17: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val spark = SparkSession.builder().master("local[8]").appName("KafkaTest").getOrCreate()[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Producer.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/eresht/spark_workspace/HBaseTest/src/main/scala/Producer.scala:15:24: not found: type KafkaProducer[0m
+[0m[[0m[31merror[0m] [0m[0m    val producer = new KafkaProducer[String, String](props)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m23 errors found[0m
